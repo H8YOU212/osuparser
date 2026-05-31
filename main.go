@@ -1,7 +1,7 @@
 package osuparser
 
 import (
-	"osuparser/parser"
+	"github.com/H8YOU212/osuparser/parser"
 )
 
 // NewParser создаёт новый парсер

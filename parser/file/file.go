@@ -1,8 +1,8 @@
 package file
 
 import (
-	"osuparser/parser/file/osr"
-	"osuparser/parser/file/osz"
+	"github.com/H8YOU212/osuparser/parser/file/osr"
+	"github.com/H8YOU212/osuparser/parser/file/osz"
 )
 
 type File struct {

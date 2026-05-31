@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"osuparser/parser/file"
-	"osuparser/parser/file/osr"
-	"osuparser/parser/file/osz"
-	"osuparser/parser/osunet"
+	"github.com/H8YOU212/osuparser/parser/file"
+	"github.com/H8YOU212/osuparser/parser/file/osr"
+	"github.com/H8YOU212/osuparser/parser/file/osz"
+	"github.com/H8YOU212/osuparser/parser/osunet"
 )
 
 type Parser struct {

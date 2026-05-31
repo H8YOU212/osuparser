@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"osuparser/parser/file/osu"
 	"path/filepath"
 	"strings"
+
+	"github.com/H8YOU212/osuparser/parser/file/osu"
 )
 
 type OszModel struct {

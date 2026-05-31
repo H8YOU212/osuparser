@@ -1,5 +1,4 @@
-//module github.com/<username>/osuparser
-module osuparser
+module github.com/H8YOU212/osuparser
 
 go 1.25.0
 
