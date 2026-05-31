@@ -2,14 +2,6 @@
 
 Go библиотека для парсинга osu! файлов (`.osu`, `.osz`, `.osr`)
 
-## Установка
-
-```bash
-go get github.com/example/osuparser
-```
-
-> Замени `github.com/example` на твой путь репозитория
-
 ## Быстрый старт
 
 ### 1. Импорт
